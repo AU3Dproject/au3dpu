@@ -25,6 +25,10 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# Assets Ignore
+/Assets/Demigiant/
+/Assets/EnhancedScroller v2/
+
 # Builds
 *.apk
 *.unitypackage

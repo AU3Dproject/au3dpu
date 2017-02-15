@@ -26,8 +26,8 @@ ExportedObj/
 sysinfo.txt
 
 # Assets Ignore
-/Assets/Demigiant/
-/Assets/EnhancedScroller v2/
+Assets/Demigiant/
+Assets/EnhancedScroller v2/
 
 # Builds
 *.apk
